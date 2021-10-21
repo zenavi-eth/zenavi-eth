@@ -1,9 +1,12 @@
-### 👋 Hi, I’m Zenavi!
-I'm a full stack web developer with over 8 years of experience. Flexible in languages; strong aptitude for adapting to new ones. Crafting web development projects related to Crypto, NFTs, and more.
-✉️ <a href="mailto:zenavi@protonmail.com">zenavi@protonmail.com</a><br/>
-<img width="16" src="https://unpkg.com/simple-icons@v5/icons/discord.svg" /> Zenavi#4792 (preferred)
+## 👋 Hi, I’m Zenavi!
+I'm a full stack web developer with over 8 years of experience. Flexible in languages; strong aptitude for adapting to new ones. Crafting web development projects related to Crypto, NFTs, and more.  
+  
+✉️ <a href="mailto:zenavi@protonmail.com">zenavi@protonmail.com</a>  
+<img width="15" src="https://i.imgur.com/QGDfAOH.png" /> Zenavi#4792 (preferred)
 
-#### 📩 Let's build something awesome.
+Let's build something awesome.
+
+<hr />
 
 ### 💻 Front End Stack
 <div style="display: inline;">
